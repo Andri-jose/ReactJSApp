@@ -34,3 +34,5 @@ Then you need to install all dependencies of the project:
 
 - Run jest test `npm run-script test-jest`
 - Run playwright test `npm run test-playwright`
+
+  Fork repository: https://github.com/anthony-bt/ReactJSApp.git
